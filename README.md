@@ -6,7 +6,7 @@ Ideal for teams or organizations looking to keep full control over their communi
 ### ⚠️ Important Notice
 
 > **Air-gapped servers (offline environments) are only supported with a paid Rocket.Chat plan.**  
-> The **Starter** plan **does not work** in such setups.
+> The **Starter** plan **does not work** in such setups. See [this forum](https://forums.rocket.chat/t/starter-plan-on-air-gapped-workspace/22384/8) for details.
 
 ---
 
