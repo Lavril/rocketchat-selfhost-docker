@@ -1,6 +1,6 @@
 # 🚀 Self-Hosted Rocket.Chat Deployment Guide
 
-This repository provides a step-by-step guide to deploying **Rocket.Chat** by Docker on your own infrastructure.  
+This repository provides a step-by-step guide to deploying **[Rocket.Chat](https://www.rocket.chat)** by Docker on your own infrastructure.  
 Ideal for teams or organizations looking to keep full control over their communication platform.
 
 ### ⚠️ Important Notice
