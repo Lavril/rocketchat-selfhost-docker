@@ -38,6 +38,7 @@ Ideal for teams or organizations looking to keep full control over their communi
 
 ```bash
 git clone https://github.com/your-username/rocketchat-selfhost-guide.git
-cd rocketchat-selfhost-guide/docker
+cd rocketchat-selfhost-guide
 cp .env.example .env
 docker-compose up -d
+```
